@@ -1,0 +1,2 @@
+# EDU
+Educational Managment System
