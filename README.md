@@ -9,7 +9,9 @@ Doctors and Students can do both Sign-Up / Login-In (Each one of the logged-in u
 4- For a solution: Print Content, Set Grade, Set Comment
 
 ## User: Student
-1- Required Data: ID, Name, Email
-2- Main Menu: Register in course, List My Courses, View course, Grades Report
-3- Register in course: List all other courses to select one
-4- View registered course: Course info, List Assignments report (status: submitted / not submitted), Options to unregister or submit assignment solution
+<dl>
+<dt>1- Required Data: ID, Name, Email</dt>
+<dd>2- Main Menu: Register in course, List My Courses, View course, Grades Report</dd>
+<dd>3- Register in course: List all other courses to select one</dd>
+<dd>4- View registered course: Course info, List Assignments report (status: submitted / not submitted), Options to unregister or submit assignment solution</dd>
+</dl>
